@@ -16,8 +16,8 @@
       "assessments": [
         {
           "title": "Assessment 1",
-          "taskName-closed": "Task 1 – Closed",
-          "link": "https://1drv.ms/p/c/6e52468e766ce93c/EQL2t1FoBxlCj8DpFKNTW64BdbfE2XdMMZ2lxdnjcIOypw?e=UxiBCE"
+          "taskName": "Task 1 – Closed",
+          "link-closed": "https://1drv.ms/p/c/6e52468e766ce93c/EQL2t1FoBxlCj8DpFKNTW64BdbfE2XdMMZ2lxdnjcIOypw?e=UxiBCE"
         },
         {
           "title": "Assessment 2",
