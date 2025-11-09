@@ -3,7 +3,7 @@
     "react": {
       "dashboard": "dashboards/react_dash.php",
       "tasks": 11,
-      "completed": 6, 
+      "completed": 6,
       "pending": 3,
       "not_done": 2,
       "assessments": [
@@ -17,6 +17,20 @@
           "taskName": "Task 2",
           "link": "https://1drv.ms/p/c/6e52468e766ce93c/EQL2t1FoBxlCj8DpFKNTW64BdbfE2XdMMZ2lxdnjcIOypw?e=UxiBCE"
         }
+      ],
+      "calendarEvents": [
+        { "title": "Task 1", "start": "2025-11-01", "end": "2025-11-08" },
+        { "title": "Task 2", "start": "2025-11-08", "end": "2025-11-15" },
+        { "title": "Task 3", "start": "2025-11-15", "end": "2025-11-22" },
+        { "title": "Task 4", "start": "2025-11-22", "end": "2025-11-29" },
+        { "title": "Task 5", "start": "2025-11-29", "end": "2025-12-06" },
+        { "title": "Task 6", "start": "2025-12-06", "end": "2025-12-13" },
+        { "title": "Task 7", "start": "2025-12-13", "end": "2025-12-20" },
+        { "title": "Task 8", "start": "2025-12-20", "end": "2025-12-27" },
+        { "title": "Task 9", "start": "2025-12-27", "end": "2026-01-03" },
+        { "title": "Task 10", "start": "2026-01-03", "end": "2026-01-10" },
+        { "title": "Task 11", "start": "2026-01-10", "end": "2026-01-15" },
+        { "title": "Task 12", "start": "2026-01-15", "end": "2026-01-22" }
       ]
     },
     "html": {
@@ -36,6 +50,10 @@
           "taskName": "HTML Task 2",
           "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
         }
+      ],
+      "calendarEvents": [
+        { "title": "HTML Week 1", "start": "2025-11-01", "end": "2025-11-08" },
+        { "title": "HTML Week 2", "start": "2025-11-08", "end": "2025-11-15" }
       ]
     },
     "python": {
@@ -55,6 +73,10 @@
           "taskName": "Task 2 – Loops",
           "link": "https://docs.python.org/3/tutorial/"
         }
+      ],
+      "calendarEvents": [
+        { "title": "Python Week 1", "start": "2025-11-01", "end": "2025-11-08" },
+        { "title": "Python Week 2", "start": "2025-11-08", "end": "2025-11-15" }
       ]
     }
   }
