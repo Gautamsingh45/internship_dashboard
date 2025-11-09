@@ -1,11 +1,16 @@
 {
+  "students": {
+    "john123": { "password": "pass123", "allowed_subjects": ["react"] },
+    "alice456": { "password": "alicepwd", "allowed_subjects": ["html", "python"] },
+    "rahul789": { "password": "rahulpwd", "allowed_subjects": ["python"] }
+  },
   "subjects": {
     "react": {
       "dashboard": "dashboards/react_dash.php",
       "tasks": 11,
       "completed": 6,
       "pending": 3,
-      "not_done": 2, 
+      "not_done": 2,
       "assessments": [
         {
           "title": "Assessment 1",
