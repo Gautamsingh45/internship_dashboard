@@ -1,0 +1,25 @@
+{
+  "subjects": {
+    "react": {
+      "dashboard": "dashboards/react_dash.php",
+      "tasks": 11,
+      "completed": 6,
+      "pending": 3,
+      "not_done": 2
+    },
+    "html": {
+      "dashboard": "dashboards/html_dash.php",
+      "tasks": 8,
+      "completed": 4,
+      "pending": 2,
+      "not_done": 2
+    },
+    "python": {
+      "dashboard": "dashboards/python_dash.php",
+      "tasks": 10,
+      "completed": 7,
+      "pending": 2,
+      "not_done": 1
+    }
+  }
+}
