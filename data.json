@@ -5,21 +5,57 @@
       "tasks": 11,
       "completed": 6,
       "pending": 3,
-      "not_done": 2
+      "not_done": 2,
+      "assessments": [
+        {
+          "title": "Assessment 1",
+          "taskName": "Task 1 – Closed",
+          "link": "https://saarthilms.com/dashboard/video"
+        },
+        {
+          "title": "Assessment 2",
+          "taskName": "Task 2",
+          "link": "https://1drv.ms/p/c/6e52468e766ce93c/EQL2t1FoBxlCj8DpFKNTW64BdbfE2XdMMZ2lxdnjcIOypw?e=UxiBCE"
+        }
+      ]
     },
     "html": {
       "dashboard": "dashboards/html_dash.php",
       "tasks": 8,
       "completed": 4,
       "pending": 2,
-      "not_done": 2
+      "not_done": 2,
+      "assessments": [
+        {
+          "title": "HTML Practice 1",
+          "taskName": "HTML Task 1",
+          "link": "https://www.w3schools.com/html/"
+        },
+        {
+          "title": "HTML Practice 2",
+          "taskName": "HTML Task 2",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+        }
+      ]
     },
     "python": {
       "dashboard": "dashboards/python_dash.php",
       "tasks": 10,
       "completed": 7,
       "pending": 2,
-      "not_done": 1
+      "not_done": 1,
+      "assessments": [
+        {
+          "title": "Python Basics",
+          "taskName": "Task 1 – Variables",
+          "link": "https://www.python.org/"
+        },
+        {
+          "title": "Python Advanced",
+          "taskName": "Task 2 – Loops",
+          "link": "https://docs.python.org/3/tutorial/"
+        }
+      ]
     }
   }
 }
