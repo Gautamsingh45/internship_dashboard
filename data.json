@@ -1,8 +1,8 @@
 {
   "students": {
-    "Aayan112": { "password": "Aayan@221", "allowed_subjects": ["react"] },
-    "krish114": { "password": "krish@441", "allowed_subjects": ["react"] },
-    "AtharvRai115": { "password": "AtharvRai@551", "allowed_subjects": ["react"] },
+    "Aayan112": { "password": "Aayan@221", "allowed_subjects": ["reactjsfree"] },
+    "krish114": { "password": "krish@441", "allowed_subjects": ["reactjsfree"] },
+    "AtharvRai115": { "password": "AtharvRai@551", "allowed_subjects": ["reactjsfree"] },
     "alice456": { "password": "alicepwd", "allowed_subjects": ["html", "python"] },
     "rahul789": { "password": "rahulpwd", "allowed_subjects": ["python"] }
   },
