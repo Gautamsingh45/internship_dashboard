@@ -11,8 +11,8 @@
       "dashboard": "dashboards/react_dash.php",
       "tasks": 10,
       "completed": 1,
-      "pending": 1,
-      "not_done": 0,
+      "pending": 0,
+      "not_done": 1,
       "assessments": [
         {
           "title": "Assessment 1",
