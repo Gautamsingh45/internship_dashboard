@@ -88,17 +88,15 @@
         {
           "title": "HTML Practice 1",
           "taskName": "HTML Task 1",
-          "link": "https://www.w3schools.com/html/"
+          "link": "https://saarthilms.com/dashboard/html"
         },
-        {
-          "title": "HTML Practice 2",
-          "taskName": "HTML Task 2",
-          "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
-        }
+        
       ],
       "calendarEvents": [
-        { "title": "HTML Week 1", "start": "2025-11-01", "end": "2025-11-08" },
-        { "title": "HTML Week 2", "start": "2025-11-08", "end": "2025-11-15" }
+        { "title": "HTML/CSS Week 1", "start": "2025-11-10", "end": "2025-11-17" },
+        { "title": "HTML/CSS Week 2", "start": "2025-11-18", "end": "2025-11-24" },
+        { "title": "HTML/CSS Week 3", "start": "2025-11-25", "end": "2025-12-1" },
+        { "title": "HTM/CSS Certificate", "start": "2025-11-08", "end": "2025-11-15" },
       ]
     },
     "python": {
