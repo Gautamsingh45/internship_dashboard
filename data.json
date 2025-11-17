@@ -4,8 +4,8 @@
     "krish114": { "password": "krish@441", "allowed_subjects": ["react"] },
     "AtharvRai11": { "password": "AtharvRai@55", "allowed_subjects": ["react"] },
     "tamanna8987": { "password": "tamanna@123", "allowed_subjects": ["react"] },
-     "deepshikha113": { "password": "deepshikha@331", "allowed_subjects": ["react"] },
-      "aarti116": { "password": "aarti@661", "allowed_subjects": ["react"] },
+    "deepshikha113": { "password": "deepshikha@331", "allowed_subjects": ["react"] },
+    "aarti116": { "password": "aarti@661", "allowed_subjects": ["react"] },
 
     "alice456": { "password": "alicepwd", "allowed_subjects": ["html", "python"] },
 
@@ -55,16 +55,6 @@
       "not_done": 1,
       "assessments": [
         {
-          "title": "Assessment 1",
-          "taskName": "Task 1 – Closed",
-          "link": "",
-        },
-        {
-          "title": "Assessment 2",
-          "taskName": "Task 2 - Closed",
-          "link": ""
-        },
-         {
           "title": "Assessment 3",
           "taskName": "Task 3",
           "link": "https://saarthilms.com/dashboard/video"
@@ -72,7 +62,7 @@
       ],
       "calendarEvents": [
         { "title": "Task 1 – Closed", "start": "2025-11-01", "end": "2025-11-08" },
-        { "title": "Task 2  – Closed", "start": "2025-11-08", "end": "2025-11-15" },
+        { "title": "Task 2 – Closed", "start": "2025-11-08", "end": "2025-11-15" },
         { "title": "Task 3", "start": "2025-11-15", "end": "2025-11-22" },
         { "title": "Task 4", "start": "2025-11-22", "end": "2025-11-29" },
         { "title": "Task 5", "start": "2025-11-29", "end": "2025-12-06" },
