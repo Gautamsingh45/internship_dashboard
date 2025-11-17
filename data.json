@@ -1,8 +1,9 @@
+
 {
   "students": {
     "Aayan112": { "password": "Aayan@221", "allowed_subjects": ["react"] },
     "krish114": { "password": "krish@441", "allowed_subjects": ["react"] },
-    "AtharvRai115": { "password": "AtharvRai@551", "allowed_subjects": ["react"] },
+    "AtharvRai11": { "password": "AtharvRai@55", "allowed_subjects": ["react"] },
     "tamanna8987": { "password": "tamanna@123", "allowed_subjects": ["react"] },
      "deepshikha113": { "password": "deepshikha@331", "allowed_subjects": ["react"] },
       "aarti116": { "password": "aarti@661", "allowed_subjects": ["react"] },
@@ -49,25 +50,33 @@
   "subjects": {
     "react": {
       "dashboard": "dashboards/react_dash.php",
-      "tasks": 10,
-      "completed": 1,
+      "tasks": 9,
+      "completed": 2,
       "pending": 0,
       "not_done": 1,
       "assessments": [
         {
           "title": "Assessment 1",
           "taskName": "Task 1 – Closed",
-          "link": "https://1drv.ms/p/c/6e52468e766ce93c/EQL2t1FoBxlCj8DpFKNTW64BdbfE2XdMMZ2lxdnjcIOypw?e=UxiBCE"
+          "link": "",
+          "link-old": "https://1drv.ms/p/c/6e52468e766ce93c/EQL2t1FoBxlCj8DpFKNTW64BdbfE2XdMMZ2lxdnjcIOypw?e=UxiBCE",
+          
         },
         {
           "title": "Assessment 2",
-          "taskName": "Task 2",
+          "taskName": "Task 2 - Closed",
+          "link": "",
+          "link-old": "https://saarthilms.com/dashboard/video"
+        },
+         {
+          "title": "Assessment 3",
+          "taskName": "Task 3",
           "link": "https://saarthilms.com/dashboard/video"
         }
       ],
       "calendarEvents": [
         { "title": "Task 1 – Closed", "start": "2025-11-01", "end": "2025-11-08" },
-        { "title": "Task 2", "start": "2025-11-08", "end": "2025-11-15" },
+        { "title": "Task 2  – Closed", "start": "2025-11-08", "end": "2025-11-15" },
         { "title": "Task 3", "start": "2025-11-15", "end": "2025-11-22" },
         { "title": "Task 4", "start": "2025-11-22", "end": "2025-11-29" },
         { "title": "Task 5", "start": "2025-11-29", "end": "2025-12-06" },
