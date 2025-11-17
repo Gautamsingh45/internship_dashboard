@@ -1,4 +1,3 @@
-
 {
   "students": {
     "Aayan112": { "password": "Aayan@221", "allowed_subjects": ["react"] },
@@ -59,14 +58,11 @@
           "title": "Assessment 1",
           "taskName": "Task 1 – Closed",
           "link": "",
-          "link-old": "https://1drv.ms/p/c/6e52468e766ce93c/EQL2t1FoBxlCj8DpFKNTW64BdbfE2XdMMZ2lxdnjcIOypw?e=UxiBCE",
-          
         },
         {
           "title": "Assessment 2",
           "taskName": "Task 2 - Closed",
-          "link": "",
-          "link-old": "https://saarthilms.com/dashboard/video"
+          "link": ""
         },
          {
           "title": "Assessment 3",
